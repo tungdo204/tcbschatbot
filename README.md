@@ -1,2 +1,2 @@
 # tcbschatbot
-botpresss_tcbschatbot
+botpress_tcbschatbot
